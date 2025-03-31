@@ -15,7 +15,7 @@
         class="mr-2"
         variant="text"
         icon="mdi-circle-half-full">
-      </v-btn>
+      </v-btn>     
   </template>
 <script>
 import { computed } from 'vue';
